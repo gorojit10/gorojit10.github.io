@@ -1,9 +1,16 @@
 # gorojit10.github.io
 <html>
-  <head><title>my own web site</title></head>
+  <head><title>my own web site</title>
+  <style type ="text/css">
+  h
+    {
+    color:red;
+    }
+  
+  </head>
           <body bgcolor='red'>
-                my name is birjit.
-                         <hr>
+               <h> my name is birjit.<\h>
+                         
           </body>
 </html>
   
