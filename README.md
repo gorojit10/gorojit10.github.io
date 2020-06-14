@@ -1,15 +1,15 @@
 # gorojit10.github.io
 <html>
   <head><title>my own web site</title>
-  <style type ="text/css">
-  h
-    {
-    color: yellow;
-    }
+
+  
+    
+
+
   
   </head>
           <body bgcolor='red'>
-               <h> my name is birjit.<\h>
+               <h1> my name is birjit.<\h1>
                  <hr>
                  my basic information
 <ol type="1">
