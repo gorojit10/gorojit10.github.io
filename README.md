@@ -8,7 +8,7 @@
 
   
   </head>
-          <body bgcolor='red'>
+          <body bgcolor="blue">
                my name is birjit
                  <hr>
                  my basic information
