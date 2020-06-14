@@ -17,10 +17,11 @@
     <li><i>class:10</i></li>
     <li><i>school: Mother's pride academy</i><\li>
     <li>address: thinungei, Bishnupur, Manipur<>
-    <li>email: birjitlaishram1364@gmail.com<>
+    <li>email: birjitlaishram1364@gmail.com
+      </li>
 </ol>
                          
-          </body>
+  </body>
 </html>
 
   
