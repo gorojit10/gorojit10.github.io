@@ -8,8 +8,9 @@
 
   
   </head>
-          <body bgcolor="blue">
-  <a href="https://gorojit10.github.io/My-first-website/"> link </a>
+          <body bgcolor="blue"> 
+  My another website:
+  <a href="https://gorojit10.github.io/My-first-website/"> my second website </a><br>
                my name is birjit
                  <hr>
                  my basic information
