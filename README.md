@@ -1,4 +1,4 @@
-# gorojit10.github.io
+
 <html>
   <head><title>my own web site</title>
 
@@ -8,7 +8,7 @@
 
   
   </head>
-          <body bgcolor="blue"> 
+          <body bgcolor="green"> 
   My another website:
   <a href="https://gorojit10.github.io/My-first-website/"> my second website </a><br>
                my name is birjit
@@ -24,7 +24,7 @@
       </li>
 </ol>
                          
-  </body>
+</body>
 </html>
 
   
