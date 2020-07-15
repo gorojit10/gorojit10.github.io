@@ -18,7 +18,7 @@
     <li><i>age:16</i></li>
     <li><i>class:10</i></li>
     <li><i>school: Mother's pride academy
-      </i><\li>
+    
     <li>address: thinungei, Bishnupur, Manipur</li>
     <li>email: birjitlaishram1364@gmail.com
       </li>
