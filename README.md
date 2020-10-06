@@ -6,7 +6,7 @@
 <h1> Try out my new game
   
   <a href="https://webinar.plezmo.com/pQLU"> play now </a> </h1><br>
-              <B> my name is birjit</b>
+              <B> My name is BIRJIT</b>
                  <hr>
                  my basic information
 <ol type="1">
