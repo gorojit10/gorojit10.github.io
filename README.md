@@ -15,8 +15,8 @@
     <li><i>school: Mother's pride academy<I></li>
   <li>address: thinungei, Bishnupur, Manipur</li>
     <li>email: birjitlaishram1364@gmail.com</li>
- <HR color="red">
 </ol>
+<HR color="red">
 </body>
 </html>
 
