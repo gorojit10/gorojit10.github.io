@@ -2,7 +2,7 @@
 <html>
   <head><title>my own web site</title></head>
  <body>
-< Font color="green">
+< baseFont color="green">
 <Center>
 <h1> Try out my new game
   
@@ -19,8 +19,6 @@
  <HR width="10" size="90%" color="red">
 </ol>
 </Center>
-</Font>
-                         
 </body>
 </html>
 
