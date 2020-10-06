@@ -1,19 +1,13 @@
 
 <html>
   <head><title>my own web site</title>
-
-  
-    
-
-
-  
   </head>
-          <body bgcolor="red" >
+ <body bgcolor="red" >
 < Font color="green">
 <Center>
-<h1> Try out my new game</h1>
+<h1> Try out my new game
   
-  <a href="https://webinar.plezmo.com/pQLU"> play now </a><br>
+  <a href="https://webinar.plezmo.com/pQLU"> play now </a> </h1><br>
                my name is birjit
                  <hr>
                  my basic information
@@ -23,6 +17,7 @@
     <li><i>school: Mother's pride academy<I></li>
   <li>address: thinungei, Bishnupur, Manipur</li>
     <li>email: birjitlaishram1364@gmail.com</li>
+ <HR width="10" size="90">
 </ol>
 </Center>
 </Font>
