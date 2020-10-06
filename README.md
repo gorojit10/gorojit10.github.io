@@ -8,9 +8,11 @@
 
   
   </head>
-          <body bgcolor="green"> 
-  My another website:
-  <a href="https://gorojit10.github.io/My-first-website/"> my second website </a><br>
+          <body bgcolor="green">
+<Center>
+<h1> Try out my new game</h1>
+  
+  <a href="https://webinar.plezmo.com/pQLU"> play now </a><br>
                my name is birjit
                  <hr>
                  my basic information
@@ -23,6 +25,7 @@
     <li>email: birjitlaishram1364@gmail.com
       </li>
 </ol>
+</Center>
                          
 </body>
 </html>
