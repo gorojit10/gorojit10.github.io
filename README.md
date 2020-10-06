@@ -1,5 +1,6 @@
 
-<html>
+<html> 
+<Head></head>
  <body>
 <Center>
 <h1> Try out my new game
@@ -16,7 +17,6 @@
     <li>email: birjitlaishram1364@gmail.com</li>
  <HR color="red">
 </ol>
-</Center>
 </body>
 </html>
 
