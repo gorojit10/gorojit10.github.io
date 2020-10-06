@@ -1,6 +1,6 @@
 
 <html>
-  <head><title>my own web site</title></head>
+ <title>my own web site</title>
  <body>
 <Center>
 <h1> Try out my new game
