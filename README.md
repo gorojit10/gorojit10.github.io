@@ -1,8 +1,7 @@
 
 <html>
-  <head><title>my own web site</title>
-  </head>
- <body bgcolor="red" >
+  <head><title>my own web site</title></head>
+ <body>
 < Font color="green">
 <Center>
 <h1> Try out my new game
@@ -17,7 +16,7 @@
     <li><i>school: Mother's pride academy<I></li>
   <li>address: thinungei, Bishnupur, Manipur</li>
     <li>email: birjitlaishram1364@gmail.com</li>
- <HR width="10" size="90">
+ <HR width="10" size="90%" color="red">
 </ol>
 </Center>
 </Font>
