@@ -17,6 +17,7 @@
     <li>email: birjitlaishram1364@gmail.com</li>
 </ol>
 <HR color="red">
+ <img src="crop_image.jpg" alt="surbala">
 </body>
 </html>
 
